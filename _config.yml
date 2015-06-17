@@ -7,7 +7,7 @@ permalink: /blog/:year/:month/:day/:title
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: HJKL
+  title: KEEP CALM AND... HJKL
   avatar: avatar.png
   gravatar: 575ac611415b6b4d4383df190a8ecb58 # Email MD5 hash
   description: "Ankit Rokde's blog" # used by search engines

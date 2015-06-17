@@ -8,7 +8,7 @@ categories:
 I want to share my experience of admission process at [SERC](http://www.serc.iisc.in/) department at IISc Bangalore.  
 I appeared for GATE exam in 2015. My AIR was 291. Gate score 774/1000. Marks 60/100. I prepared for GATE on my own without any coaching. I had joined online Test Series from [testbook.com](http://testbook.com/). I would recommend future GATE aspirants the same.  
 
-I was eligible for M. Tech. (CSA), M. Sc. Engg. (CSA) and M. Tech. SERC. I had applied to all 3 programs.
+I was eligible for M. Tech. (CSA), M. Sc. Engg. (CSA) and M. Tech. SERC at IISc Bangalore. I had applied to all 3 programs.
 I was only shortlisted for M. Tech. SERC. I had referred to few old blogs and couple of facebook groups to prepare for subsequent process at IISc Bangalore. I have shared those links at the end of this post.  
 
 The admission process at SERC had two parts. A test followed by a personal interview. Generally you get the test and interview call letter 2-3 weeks in advance, so you have some time to prepare for it. I would advice you start preparing for these tests and interviews from the next day you get the result. The test and interview process at IISc spans across 2-3 days. IISc Bangalore did not provide any accommodation facility so you have to make your arrangements on your own. Fortunately I knew a friend Yogesh Bhosle who was pursuing his master's at IISc Bangalore. That took care of accommodation arrangements for me.  
