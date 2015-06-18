@@ -43,7 +43,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-64281634-1"# Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: 'ankitrokdeonsns-github-io'
   katex: true # Enable if using math markup
 
