@@ -5,7 +5,6 @@
 remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-paginate
-gems:
   - jekyll-seo-tag
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
